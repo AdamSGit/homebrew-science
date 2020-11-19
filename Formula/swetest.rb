@@ -1,7 +1,7 @@
 class Swetest < Formula
   homepage "https://www.astro.com/swisseph/"
   url "https://www.astro.com/ftp/swisseph/swe_unix_src_2.09.03.tar.gz"
-  sha256 "e2e3ac2cee53b38865b071f6d86ae0a05e0f608fbf3acc569104589d5a23576f"
+  sha256 "d9a12ea4454784ed7ddbdaa200a91a8110dd0ea8a96a8532fda2f27be3b71786"
 
   bottle do
     sha256 "9f4505f1cad7674e45f4e01f7a8897ae82f876cd99e93519a9c11f424c598e3e" => :sierra
