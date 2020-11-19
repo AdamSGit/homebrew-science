@@ -12,7 +12,7 @@ class Swetest < Formula
 
   resource "seasnam" do
     url "https://www.astro.com/ftp/swisseph/ephe/seasnam.txt"
-    sha256 "6388016a052de32673ab82d797be143627772d227b27d4ebb2cc8079b82ee471"
+    sha256 "9f57bd9692d0fbb49f3fa46a73a728e8f47a657a4dc97a9ba0de6fc8c55af6f4"
   end
   resource "sefstars" do
     url "https://www.astro.com/ftp/swisseph/ephe/sefstars.txt"
@@ -20,7 +20,7 @@ class Swetest < Formula
   end
   resource "seas" do
     url "https://www.astro.com/ftp/swisseph/ephe/seas_18.se1"
-    sha256 "0afe3f94769b6718082411c2c4fb06bf9d1aaa6c0bc1bad8f8b8725421ef8748"
+    sha256 "42d56b1ab1cb6885f79f827e2ddc367733b3eb2d1b370a6436d668d39ae3edd4"
   end
   resource "semo" do
     url "https://www.astro.com/ftp/swisseph/ephe/semo_18.se1"
