@@ -16,7 +16,7 @@ class Swetest < Formula
   end
   resource "sefstars" do
     url "https://www.astro.com/ftp/swisseph/ephe/sefstars.txt"
-    sha256 "42d56b1ab1cb6885f79f827e2ddc367733b3eb2d1b370a6436d668d39ae3edd4"
+    sha256 "a6bca50429497dde29b7ba04a63de3839e31f8b360ca939f51e18cb6a7ff2f78"
   end
   resource "seas" do
     url "https://www.astro.com/ftp/swisseph/ephe/seas_18.se1"
